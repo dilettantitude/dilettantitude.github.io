@@ -31,16 +31,9 @@ footer, header, hgroup, menu, nav, section, main {
 body {
 	line-height: 1;
 }
-ul {
-  list-style-type: none;
-}
+ol, ul {
 
-ul > li:before {
-  content: "–"; /* en dash */
-  position: absolute;
-  margin-left: -1.1em; 
 }
-
 blockquote, q {
 	quotes: none;
 }
