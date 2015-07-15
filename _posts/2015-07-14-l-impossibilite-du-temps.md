@@ -18,10 +18,10 @@ Tic tac toc, évolue comme une roue dentée qui nous écrase.
 - Il existe suffisamment de support pour cette théorie pour ne pas la taxer d'affabulation.
 Le temps minimal entre deux états est limité par le bas, éventuellement par la constante de Planck ou bien d'autres dépendant de l'école.
 En tout cas le temps est une séquence isolée d'états et non un mouvement continue, ou bien dense si tu préfères. C'est la physique quantique.
-- Cela défie notre expérience du réel. Mon avion s'écrase, et nous pouvons nous retrouver dans la situation avion intact/avion désintégré; je suis encore vie/je suis déjà mort. Aucun état intermédiaire.
+- Cela défie notre expérience du réel. Mon avion s'écrase, et nous pouvons nous retrouver dans la situation avion intact/avion désintégré; je suis encore en vie/je suis déjà mort. Aucun état intermédiaire.
 - Exactement.
 - Je reste dans l'optique du paradoxe de Zénon sans lequel tu ne peux sortir sans continu. Je suis cette flèche, irrémédiablement, en limite, je m'écraserai, ayant conscience de chaque instant, arbitraire, qui me mène à la fin.
-- Non, c'est juste une séquence très fine d'évènements. Et au final il existe un temps t auquel tu vis, et un temps t+h où tu es mort. Entre les deux rien ne se passe.
+- Non, c'est juste une séquence très fine d'évènements. Et au final il existe un temps $t$ auquel tu vis, et un temps $t+h$ où tu es mort. Entre les deux rien ne se passe.
 - Rien ne se passe... Activité cérébrale à plein régime/néant.
 - Un film. Une séquence d'image. Une simple illusion.
 - Mais l'espace est alors aussi discret?
