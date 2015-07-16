@@ -21,11 +21,10 @@ Symétrie.
 Chuintement.
 Odeur de salon.
 
-Dans un univers fermé aux quatre bandes feutrés.
+Dans un univers fermé, rectangulaire, aux quatre bandes feutrés.
 Une boule est lancée. 
-C'est simple: une direction, une règle de réflexion symétrique sur les bandes.
-La trajectoire est fixée.
-Supprimons toute frictions et effets d'amortissements
-la régularité vs irrégularité.
+C'est simple: une direction, une règle de réflexion symétrique, la trajectoire est fixée.
+Supprimons toutes frictions et effets d'amortissements.
+L'évolution infinie de la boule sur cette surface délimité se résume totalement dans son angle de départ.
 
 

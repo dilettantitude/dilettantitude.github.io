@@ -15,7 +15,45 @@
 
         <!-- Modernizr js -->
         <script async src="/assets/js/modernizr.js"></script>
-
+        <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+              MathJax.Hub.Config({
+                "HTML-CSS": {
+                  mtextFontInherit: true,
+                  preferredFont: "Neo-Euler",
+                  scale: 85
+                },
+                  tex2jax: {
+                      inlineMath: [['$','$'], ['\\(','\\)']],
+                  processEscapes: true,
+                                    skipTags: ['script', 'noscript', 'style', 'textarea']
+                  },
+                TeX: { 
+                  equationNumbers: { autoNumber: "AMS" },
+                  Macros: {
+                                Set: ["\\left\\{ #1 \\right\\}",1],
+                                set: ["\\{ #1 \\}",1],
+                                abs: ["\\left| #1\\right|",1],
+                                norm: ["\\left\\Vert #1\\right\\Vert",1],
+                                            lrangle: ["\\langle #1,#2\\rangle",2],
+                                            LRangle: ["\\left\\langle #1,#2\\right\\rangle",2],
+                                cl: "\\text{cl}",
+                                Int: "\\text{int}",
+                                ri: "\\text{ri}",
+                                            core: "\\text{core}",
+                                span: "\\text{span}",
+                                aff: "\\text{aff}",
+                                conv: "\\text{conv}",
+                                co: "\\text{co}",
+                                            cco: "\\text{cco}",
+                                            epi: "\\text{epi}",
+                                            hypo: "\\text{hypo}",
+                                            dom: "\\text{dom}",
+                    un: "\\textbf{1}",
+                                            Lim: "\\text{Lim}"
+                                  }
+                }
+              });
+    </script>
         <!-- IE Fixes -->
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -62,6 +100,11 @@
 		<ul class="posts">
 		    
 		    <li>
+			  <span>21 Jul 2015 &raquo;</span>
+			  <a href="/on%20the%20go/2015/07/21/trajectoires-determinees/">Trajectoires Déterminées</a>
+		    </li>
+		    
+		    <li>
 			  <span>14 Jul 2015 &raquo;</span>
 			  <a href="/on%20the%20go/2015/07/14/l-impossibilite-du-temps/">L'Impossibilité du Temps</a>
 		    </li>
@@ -69,11 +112,6 @@
 		    <li>
 			  <span>02 Jul 2015 &raquo;</span>
 			  <a href="/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/">Garçon! Remets en Une</a>
-		    </li>
-		    
-		    <li>
-			  <span>07 May 2012 &raquo;</span>
-			  <a href="/on%20the%20go/2012/05/07/48-heures-de-classes-tout-un-programme/">48 Heures de Classes: tout un Programme...</a>
 		    </li>
 		    
 		</ul>
