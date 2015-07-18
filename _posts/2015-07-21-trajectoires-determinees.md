@@ -7,10 +7,9 @@ categories:
 Poc.
 Son feutré.
 Rouge contre vert.
-Droite.
+Droite, angle.
 Friction.
 Nouveau départ.
-Course.
 
 Même les plus simples trajectoires regorgent de complexité.
 Une trajectoire déterminée, à peine perturbée par le bruit des contingences --- à mesure que ta vie avance, elle s'avèrent être somme toute prépondérantes --- c'est ce que tu pensais.
@@ -21,11 +20,11 @@ Symétrie.
 Chuintement.
 Odeur de salon.
 
-Univers fermé, rectangulaire, aux quatre bandes feutrés.
+Univers rectangulaire aux quatre bandes feutrés.
 Une boule lancée.
-Trivial: une direction, une règle de réflexion symétrique, et la trajectoire est fixée.
+Principe trivial: une direction, une règle de réflexion symétrique, et la trajectoire est fixée.
 Supprimons toutes frictions et effets d'amortissements.
-L'évolution infinie de la boule sur cette surface délimité se résume totalement dans son angle de départ.
+L'évolution infinie de la boule sur cette surface se réduit totalement à son angle de départ.
 
 Retour au point de départ?
 Parcours total de la surface?
@@ -36,10 +35,10 @@ Reprise de l'histoire pour revivre la même chose, dans le même ordre, encore e
 Boucle infinie, devenir limité.
 Rationalité pour une routine insensée, existence bornée.
 
-Angle de départ irrationnel, et un univers infini s'ouvre.
+Angle de départ irrationnel, et c'est un univers infini s'ouvre.
 Aucun retour au point de départ possible, trajectoire renouvelée à chaque réflexion.
 Vertige du non-retour, de l'irrémédiablement perdu.
 Raturant chaque centimètre carré de la surface.
-Électron libre.
+Électron libre, en apparence.
 
-Rationnel/Irrationnel, divergence absolue de conséquences.
+Rationnel/Irrationnel, divergence absolue de conséquences et pourtant totalement déterminées par un simple angle.
