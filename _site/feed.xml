@@ -5,10 +5,60 @@
     <description>Hanging around, having a cigarette.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Jul 2015 18:22:24 +0200</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2015 18:22:24 +0200</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2015 14:34:54 +0300</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2015 14:34:54 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
+
+      <item>
+        <title>Trajectoires Déterminées</title>
+        <description>&lt;p&gt;Poc.
+Son feutré.
+Rouge contre vert.
+Droite, angle.
+Friction.
+Nouveau départ.&lt;/p&gt;
+
+&lt;p&gt;Même les plus simples trajectoires regorgent de complexité.
+Une trajectoire déterminée, à peine perturbée par le bruit des contingences — à mesure que ta vie avance, elle s’avèrent être somme toute prépondérantes — c’est ce que tu pensais.&lt;/p&gt;
+
+&lt;p&gt;Angle de réflexion.
+Réflexion spéculaire.
+Symétrie.
+Chuintement.
+Odeur de salon.&lt;/p&gt;
+
+&lt;p&gt;Univers rectangulaire aux quatre bandes feutrés.
+Une boule lancée.
+Principe trivial: une direction, une règle de réflexion symétrique, et la trajectoire est fixée.
+Supprimons toutes frictions et effets d’amortissements.
+L’évolution infinie de la boule sur cette surface se réduit totalement à son angle de départ.&lt;/p&gt;
+
+&lt;p&gt;Retour au point de départ?
+Parcours total de la surface?&lt;/p&gt;
+
+&lt;p&gt;Angle de départ rationnel, et la boule repassera infiniment au même endroit.
+Qu’importe la longueur de l’excursion, retour au point de départ, inlassablement.
+Reprise de l’histoire pour revivre la même chose, dans le même ordre, encore et encore.
+Boucle infinie, devenir limité.
+Rationalité pour une routine insensée, existence bornée.&lt;/p&gt;
+
+&lt;p&gt;Angle de départ irrationnel, et c’est un univers infini s’ouvre.
+Aucun retour au point de départ possible, trajectoire renouvelée à chaque réflexion.
+Vertige du non-retour, de l’irrémédiablement perdu.
+Raturant chaque centimètre carré de la surface.
+Électron libre, en apparence.&lt;/p&gt;
+
+&lt;p&gt;Rationnel/Irrationnel, divergence absolue de conséquences et pourtant totalement déterminées par un simple angle.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2015 00:00:00 +0300</pubDate>
+        <link>/on%20the%20go/2015/07/21/trajectoires-determinees/</link>
+        <guid isPermaLink="true">/on%20the%20go/2015/07/21/trajectoires-determinees/</guid>
+
+
+        <category>on the go</category>
+
+      </item>
+
       <item>
         <title>L&#39;Impossibilité du Temps</title>
         <description>&lt;ul&gt;
@@ -23,10 +73,10 @@ Tic tac toc, évolue comme une roue dentée qui nous &lt;!--more--&gt;écrase.&l
   &lt;li&gt;Il existe suffisamment de support pour cette théorie pour ne pas la taxer d’affabulation.
 Le temps minimal entre deux états est limité par le bas, éventuellement par la constante de Planck ou bien d’autres dépendant de l’école.
 En tout cas le temps est une séquence isolée d’états et non un mouvement continue, ou bien dense si tu préfères. C’est la physique quantique.&lt;/li&gt;
-  &lt;li&gt;Cela défie notre expérience du réel. Mon avion s’écrase, et nous pouvons nous retrouver dans la situation avion intact/avion désintégré; je suis encore vie/je suis déjà mort. Aucun état intermédiaire.&lt;/li&gt;
+  &lt;li&gt;Cela défie notre expérience du réel. Mon avion s’écrase, et nous pouvons nous retrouver dans la situation avion intact/avion désintégré; je suis encore en vie/je suis déjà mort. Aucun état intermédiaire.&lt;/li&gt;
   &lt;li&gt;Exactement.&lt;/li&gt;
   &lt;li&gt;Je reste dans l’optique du paradoxe de Zénon sans lequel tu ne peux sortir sans continu. Je suis cette flèche, irrémédiablement, en limite, je m’écraserai, ayant conscience de chaque instant, arbitraire, qui me mène à la fin.&lt;/li&gt;
-  &lt;li&gt;Non, c’est juste une séquence très fine d’évènements. Et au final il existe un temps t auquel tu vis, et un temps t+h où tu es mort. Entre les deux rien ne se passe.&lt;/li&gt;
+  &lt;li&gt;Non, c’est juste une séquence très fine d’évènements. Et au final il existe un temps $t$ auquel tu vis, et un temps $t+h$ où tu es mort. Entre les deux rien ne se passe.&lt;/li&gt;
   &lt;li&gt;Rien ne se passe… Activité cérébrale à plein régime/néant.&lt;/li&gt;
   &lt;li&gt;Un film. Une séquence d’image. Une simple illusion.&lt;/li&gt;
   &lt;li&gt;Mais l’espace est alors aussi discret?&lt;/li&gt;
@@ -53,15 +103,15 @@ En tout cas le temps est une séquence isolée d’états et non un mouvement co
   &lt;li&gt;Tu te serais autrement suicidé depuis bien longtemps.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 14 Jul 2015 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 14 Jul 2015 00:00:00 +0300</pubDate>
         <link>/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</link>
         <guid isPermaLink="true">/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</guid>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>Garçon! Remets en Une</title>
         <description>&lt;p&gt;La moiteur descend peu à peu, suintant le long des tempes, de la colonne vertébrale.
@@ -84,15 +134,15 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 
 &lt;p&gt;Garçon! Remets en une&lt;/p&gt;
 </description>
-        <pubDate>Thu, 02 Jul 2015 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 02 Jul 2015 00:00:00 +0300</pubDate>
         <link>/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</link>
         <guid isPermaLink="true">/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</guid>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>48 Heures de Classes: tout un Programme...</title>
         <description>&lt;p&gt;Mes lacunes tant mémorielles qu&#39;organisationnelles firent qu&#39;un sombre matin de septembre 2000, la Gendarmerie se présenta à la porte de mes parents et s&#39;enquit gentiment de ma personne sous peine d&#39;être poursuivi en tant que déserteur; pour la deuxième fois. Cinq année auparavant, ayant ignoré de multiples courriers d&#39;appel au recensement, je fus emmené quasi manu militari faire mes trois jours au cours desquels je pus persuader un bourru commandant, bon père de famille, de reporter le service après mes études. Nous sommes en 2000, et encore une fois j&#39;ignorais quelques courriers, qui -- je l&#39;appris ultérieurement -- s&#39;interrogeaient sur la situation de mes études et éventuelles disponibilités afin de rejoindre les rangs. A présent, aucune échappatoire possible. C&#39;est ainsi que -- deux mois avant le dernier contingent appelé suite à la suppression définitive du service militaire -- je rentrais sous les drapeaux. Ce fut une expérience particulièrement absurde, que je ne regrette cependant pas. Je trouve d&#39;ailleurs que la suppression du service est malheureuse pour la démocratie et l&#39;armée en elle même, mais c&#39;est une autre histoire. Il y a quelques semaines, en rangeant, je suis cependant tombé sur ces quelques notes témoignant du quotidien durant mes classes.&lt;/p&gt;
@@ -163,19 +213,19 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;li&gt;Sommeil et divers: 12H00;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 07 May 2012 19:10:28 +0200</pubDate>
+        <pubDate>Mon, 07 May 2012 20:10:28 +0300</pubDate>
         <link>/on%20the%20go/2012/05/07/48-heures-de-classes-tout-un-programme/</link>
         <guid isPermaLink="true">/on%20the%20go/2012/05/07/48-heures-de-classes-tout-un-programme/</guid>
-        
+
         <category>Absurdity</category>
-        
+
         <category>Armée</category>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>Droite--Gauche: Dangers d&#39;une Topologie Unidimensionelle.</title>
         <description>&lt;p&gt;Une droite se droitisant, une gauche se radicalisant, un centre droit se gauchisant, une extrême droite se dédiabolisant, etc. Au vue de la campagne et des résultats du second tour, les commentaires vont bon train sur l&#39;évolution de la France le long du spectre politique. Comme argumenté dans un &lt;a title=&quot;Chroniques Berliniquaises&quot; href=&quot;http://chronique-berliniquaise.blogspot.de/2012/04/droites-de-regression.html&quot;&gt;poste récent&lt;/a&gt;, quand bien même les résultats des urnes montrerait une forte droitisation de la société Française au sens classique du terme, il n&#39;en est en fait absolument rien. A mon sens, la vision classique du spectre politique gauche-droite est bien trop restrictive pour faire émerger une analyse raisonnable des affinités politiques citoyennes et leur évolution. Ce simplisme permet il est vrai de se positionner rapidement -- à première vue efficacement -- en tant que politicien et accentuer les clivages nécessaires à la différentiation de l&#39;offre. Valable au siècle dernier ou bien dans des pays bipartites, il est ici devenu la source d&#39;un brouillage néfaste à la compréhension du paysage politique. Il en résulte un positionnement des partis politiques et de leurs représentants biaisé conduisant à une confusion, un dégoût ou bien une méprise dangereux au sein de l&#39;électorat.&lt;/p&gt;
@@ -185,27 +235,27 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;Elle permet aussi d&#39;éviter les erreurs des candidats et partis lors de leur confrontations. L&#39;exemple du Front National ou bien du PC est flagrant. Considérés dans les attaques respectives du PS et de l&#39;UMP comme des entités fixes aux contours bien définis -- raciste, réactionnaire voir même fasciste pour le FN, étatiste, criminel (le livre noir du communisme comme bible de chevet), liberticide, dictatoriale pour le PC -- sont bien plus mouvants sur quasiment tous ces points de vues. Alors que sous la houlette du père, le FN se faisait le chantre de l&#39;ultra libéralisme économique, fleurait avec le nazisme et le colonialisme, celui-ci est devenu sous la fille fondamentalement étatiste, nationaliste, (par opportunisme) anti-islamisque laïque, ultra-policé et n&#39;est plus raciste -- il comporte une xénophobie latente (radicalement différente du racisme) comme dans de grandes parties de l&#39;UMP voire même certains pans du front de gauche et de la LCR en ce qui concerne les travailleurs étrangers. En ce qui concerne le rejeton du PC, le PG, il n&#39;est plus dans la nostalgie Lenino-Staliniste. Au productivisme industriel s&#39;oppose à présent le développement durable (voir la position sur le nucléaire); d&#39;internationalisme ouvrier, il est devenu très gaulliste, protectionniste, Jacobiniste (avec ses accents nationalistes) et conservateur (au niveau social). Cette mouvance réelle est masquée par leur positionnement supposé et contribue à des attaques dénuées de sens des partis traditionnels. Je suis complètement sidéré de voir que certains au PS ou bien à l&#39;UMP continuent d&#39;attaquer respectivement le FN  et le PC le long de ces même lignes éculées -- facisme / pacte Germano-Soviétique -- comme des chiens de Pavlov. Ils oublient de voir cette  mutation -- dans le cas du FN en un parti neo-conservateur, réactionnaire à l&#39;image de partis comme l&#39;UDC en suisse ou bien le PVV aux Pays-Bas; dans le cas du PG en un parti populiste socialo-conservateur à l&#39;image de Die Linke en Allemagne. Crier haro aux racistes neo-nazi ou bien ces sanguinaires communistes est contre productif, alors qu&#39;une étude de leur programme suffirait -- à la grosse différence de l&#39;UDC par exemple -- a démontrer la consternante vacuité, les contradictions, le populisme et surtout l&#39;irréalisme de ces programme.&lt;/p&gt;
 &lt;p&gt;Argumenter contre ces deux partis revient donc à mesurer point par point leurs programmes à l&#39;aune des thèmes idéologiques ci-avant cités ayant ainsi un impact plus important car ciblant des faits actuels. Car malheureusement, la réalité est qu&#39;en lieu et place de cette confrontation franche du PS avec le (non)programme du FN, ou bien à l&#39;UMP avec celui du PG, nous constatons la pérennité de ces vielles postures gauche-droite, inadaptées. Elles n&#39;éclairent en rien les citoyens qui, constatant la fatuité de ces attaques, se laissent subjuguer par les sirènes du populisme.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 May 2012 05:17:37 +0200</pubDate>
+        <pubDate>Thu, 03 May 2012 06:17:37 +0300</pubDate>
         <link>/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</link>
         <guid isPermaLink="true">/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</guid>
-        
+
         <category>Elections</category>
-        
+
         <category>FN</category>
-        
+
         <category>France</category>
-        
+
         <category>Politics</category>
-        
+
         <category>PS</category>
-        
+
         <category>UMP</category>
-        
-        
+
+
         <category>long</category>
-        
+
       </item>
-    
+
       <item>
         <title>S-Bahn: Experience Olfactive</title>
         <description>&lt;p&gt;Café bu, bottes enfilées, cigarette fumée, enfin sur le quai.&lt;/p&gt;
@@ -214,21 +264,21 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;Trente minutes plus tard, la boite, après chargement et déchargement de morceaux de banc, arrive à destination, vomissant son contenu puant et trébuchant sur le quai. La palette d&#39;odeurs, elle,  telle une mauvaise graisse de cuisine, reste chuintante collée sur les parois et les sièges.&lt;/p&gt;
 &lt;p&gt;La journée commence.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Mar 2012 15:28:38 +0100</pubDate>
+        <pubDate>Mon, 12 Mar 2012 16:28:38 +0200</pubDate>
         <link>/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</link>
         <guid isPermaLink="true">/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</guid>
-        
+
         <category>Berlin</category>
-        
+
         <category>Impressions</category>
-        
+
         <category>Sbahn</category>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>Le Pouvoir du Mendiant</title>
         <description>&lt;p&gt;A Berlin, il monte dans le métro ou le S-Bahn au hasard d&#39;une station. Il peut revêtir toutes sortes d&#39;accoutrements: Le style &quot;long cheveux gras accompagné de son éternel bâtard aux oreilles découragées&quot;, le style &quot;effronté, rebelle jusqu&#39;au bout des innombrables tatouages, oeil jauni par l&#39;alcool et autres drogues&quot; ou encore le style &quot;pas de bol; je suis là; les cadavres de ma vie ratée traînants derrière mes sneakers usés&quot;. Le voici, le vendeur de &lt;a href=&quot;http://www.motz-berlin.de/&quot; target=&quot;_blank&quot;&gt;motz&lt;/a&gt;, &lt;a href=&quot;http://www.strassenfeger.org/&quot; target=&quot;_blank&quot;&gt;Strassenfeger&lt;/a&gt;, ou autres &lt;a href=&quot;http://www.die-stuetze.com/&quot; target=&quot;_blank&quot;&gt;Stütze&lt;/a&gt; -- magazines pour sans abris.&lt;/p&gt;
@@ -237,23 +287,23 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;Le texte, appris par cœur, n&#39;est modulé que légèrement  au gré de la fantaisie par quelques retouches superficiels. Une triste et discordante récitation. Elle vient de loin. Nous récitons intérieurement les quelques phrases en rythme, comme les grenouilles de bénitiers le font lors de l&#39;homélie. En ce qui concerne le pouvoir, autant dans l&#39;échelle sociale un barreau plus bas n&#39;existe pas -- sauf peut-être dans la prostitution masculine -- autant personne n&#39;ose lever les yeux sur cette apparition désagréable. Il existe un rapport de force étonnant entre ce dernier barreau et les supérieurs, nécessité subconsciente de savoir qu&#39;il existe. Non affirmée, notre honteuse supériorité transpire de tous les pores de sa mendicité. C&#39;est écrasant. Tout le monde fixe ses pompes, son livre, son téléphone. Il passe le magazine à la hauteur des yeux baissés. Présence étouffante. Encore trente secondes jusqu&#39;à la prochaine station.&lt;/p&gt;
 &lt;p&gt;Il ressort, quelques centimes de plus dans les poches de quelques voyageurs terrassés. Le wagon respire. Encore une station et son image est oubliée. Au final, nous nous remettons facilement de ce genre d&#39;humiliations.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Mar 2012 06:37:22 +0100</pubDate>
+        <pubDate>Thu, 01 Mar 2012 07:37:22 +0200</pubDate>
         <link>/long/2012/03/01/le-pouvoir-du-mendiant/</link>
         <guid isPermaLink="true">/long/2012/03/01/le-pouvoir-du-mendiant/</guid>
-        
+
         <category>Berlin</category>
-        
+
         <category>Life</category>
-        
+
         <category>Poverty</category>
-        
+
         <category>Power</category>
-        
-        
+
+
         <category>long</category>
-        
+
       </item>
-    
+
       <item>
         <title>Heimat Liebi</title>
         <description>&lt;p&gt;Ich wusste, dass die Schweizer eine zurecht besonders geprägte Liebesbeziehung zur Heimat haben. Es ist bestimmt der Grund dafür, dass es das einzige Land in der Welt das trotz vier Sprachen, extreme Föderalismus, einzigartige direkte Demokratie, hervorragend gut zusammenhält.&lt;/p&gt;
@@ -266,21 +316,21 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;http://www.youtube.com/watch?v=FjUfGBARWs8&amp;amp;rel=1&lt;/p&gt;
 &lt;p&gt;Die Schweiz hält zusammen, weil eine Sessession gleich der Tilgung der schönsten Fahne der Welt bedeuten würde. Alles eine Frage des Stils.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 17 Nov 2007 08:05:33 +0100</pubDate>
+        <pubDate>Sat, 17 Nov 2007 09:05:33 +0200</pubDate>
         <link>/on%20the%20go/2007/11/17/heimat-liebi/</link>
         <guid isPermaLink="true">/on%20the%20go/2007/11/17/heimat-liebi/</guid>
-        
+
         <category>Flag</category>
-        
+
         <category>Nation</category>
-        
+
         <category>Switzerland</category>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>Egotrip des Fabian Hinrich</title>
         <description>&lt;p&gt;Er steht da, gerade recht, mit einer solche verblödete Körperhaltung wie nur ein Leiter eines Workshops über &quot;entdecke deine Innere&quot; haben könnte. Am Rand seiner Arbeitstisch steht einem Haufen Scheinbücher: &quot;Fabien Hinrich: Schluss mit Lustig&quot; was eine dicke Hausfrau -- möchte gerne Sekretärin -- versteckt. Die Bühne ist einen fantastischen Alptraum im Zeitalter der Medien; Webcams an verschieden Orten senden Unmittelbar durch mehrere Videoprojektoren auf die Bühne. Das Meer aus grüne Bälle, die Insel, der Kukuknetz, der Wachturm, der Stein. Das Alles in einer sehr gelungene drei dimensionalen Anordnung.&lt;/p&gt;
@@ -291,21 +341,21 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;Es war doch ein sehr gutes Theater Abend, wenn auch der Stück fast ausschließlich durch das Ego Fabians getragen wurde. Die Bühne war so unwahrscheinlich, dass ich sogar mich kontrollieren sollte damit ich nicht mitten ins Stück ins grünes Meer springe. Die Schauspieler wenn auch sehr professionell, könnten mit der unvorhersehbaren Wirkung eines Spiels mit dem Publikum sehr gut improvisieren, und es gab an diesem Abend sehr viel.&lt;/p&gt;
 &lt;p&gt;Also wenn Ihr nach Zürich kommt, gibt es zwar nicht so viel Theater Angebot wie in Berlin, aber trotzdem sehr gutem in diesem &lt;a href=&quot;http://www.schauspielhaus.ch/www/160.asp&quot; target=&quot;_blank&quot;&gt;Schiffbau&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Nov 2007 02:32:37 +0100</pubDate>
+        <pubDate>Fri, 16 Nov 2007 03:32:37 +0200</pubDate>
         <link>/on%20the%20go/2007/11/16/egotrip-des-fabian-hinrich/</link>
         <guid isPermaLink="true">/on%20the%20go/2007/11/16/egotrip-des-fabian-hinrich/</guid>
-        
+
         <category>Life</category>
-        
+
         <category>Theater</category>
-        
+
         <category>Zurich</category>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
       <item>
         <title>Raclette Kampf - Kettensägenschlacht: Skurrile schweizer Zeitungen</title>
         <description>&lt;p&gt;Zugegeben, ich habe einen gewisse Schwäche für Zeitungen. Würde ich mich nicht kontrollieren, wären sechs bis sieben verschiedenen am Tag vor meine Augen gelaufen. Es ist hier darüberhinaus besonders, weil es einen fantastischen Zugang (nicht der einzige) zu der Kultur und Denkweise der Schweiz, und besonders dieses Mal mitten einer umstrittenen Wahlkampf.&lt;/p&gt;
@@ -322,53 +372,26 @@ Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombr
 &lt;p&gt;Die schweizerische Bauern der Wallis haben in der Streit um eine Ursprungsbezeichnung der Raclette als Käse eine Niederlage eindeutig erlitten, und zwar vor dem Bundesgericht. Also was ist denn Raclette? Das Schmelzen einem fettem Alpenkäse (nicht unbedingt Schweizer) am Holzfeuer. Oder der Käse, der dazu genutzt wird? Also für solche entscheidende Fragen einer unwidersprechender Hoheit ist Ernsthaft und mass zu betrachten. Also die höchste Richter des Landes haben mehere Tagen um des Problems eingesetzt, und die Journalisten schmieren dann eine volle Seite über diese juristische Sachen.&lt;/p&gt;
 &lt;p&gt;Ich fühle mich jetzt wohler, da Europa mit seiner &quot;bouffone&quot; Bestimmungen beispielsweise der Grösse von Hähnchenkäfig eigentlich nicht schlimmer da steht. Also die Schweiz ist auf jedem Fall ein gutes Kandidat, um in Europa aufgenommen zu werden.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Nov 2007 03:06:30 +0100</pubDate>
+        <pubDate>Thu, 08 Nov 2007 04:06:30 +0200</pubDate>
         <link>/on%20the%20go/2007/11/08/raclette-kampf-kettensagenschlacht-skurrile-schweizer-zeitungen/</link>
         <guid isPermaLink="true">/on%20the%20go/2007/11/08/raclette-kampf-kettensagenschlacht-skurrile-schweizer-zeitungen/</guid>
-        
-        <category>Europe</category>
-        
-        <category>Newspapers</category>
-        
-        <category>NZZ</category>
-        
-        <category>Skurill</category>
-        
-        <category>Switzerland</category>
-        
-        <category>Zurich</category>
-        
-        
-        <category>on the go</category>
-        
-      </item>
-    
-      <item>
-        <title>Ein Abend am proli Strandbad</title>
-        <description>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;bikini_highlight.jpg&quot; href=&quot;/assets/images/2007/10/bikini_highlight1.jpg&quot;&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/2007/10/bikini_highlight1.jpg&quot; alt=&quot;bikini_highlight.jpg&quot; width=&quot;390&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Am Wochenende, trotz tiefe Temperaturen, hatte ich mich entschieden, am Strandbad die Menschen umzuschauen. Nicht Zufälligerweise war auch einen Bikini-Wettbewerb im gang...&lt;/p&gt;
 
-&lt;p&gt;10 Franken, &lt;a href=&quot;http://www.schauspielhaus.ch/www/index.asp&quot; target=&quot;_blank&quot;&gt;ticket per Internet&lt;/a&gt; gekauft, stelle ich mich pünktlich vor der Tür des für einen Abend im Strandbad umgewandelten Schiffbaus, um einen zwei stündigen Theaterstück zu schauen. &quot;Bikini&quot;, von einer in Berlin lebender Zürchin -- Tina Müller -- geschrieben, ist ein gelungenes unprätentiös dennoch scharfsinniges Stück. Die Geschichte eines Sommers drei Teenagerinen am Sommerbad¹. Kampf um Bikiniwettbewerb, Kampf um den Jungs, neid, Körperkult, begehrt und begehrt sein, die Mischung ist heiss, fällt aber nicht im Verblödung, und frisiert nur leicht am Rand des Schaubetriebs.&lt;/p&gt;
-&lt;p&gt;Das ganze unter eine energische Regie von Peter Raffalt und drei, dennoch ungleich gute, Schauspielerinnen aus dem Praxis-Jahr.&lt;/p&gt;
-&lt;p&gt;Alles war sehr angenehm, der Rot Wein am Ende -- wie üblich im Theatermilieu -- ist im Gehirn den Effekt einer Black&amp;amp;Decker Bohrmaschine ähnlich. Bref einen schönen Abend, für in einem intime Theater.&lt;/p&gt;
-&lt;p&gt;Das einzige ist, dass trotz der Zusicherung, der Stück sei &quot;natürlich auf Hochdeutsch&quot;, sprachen die 3 Mädchen ein süßes dennoch für mich schwer verständliches Schwyzer-hoch-dütsche... Es war aber meiner bester und angenehmster Sprachkurs.&lt;/p&gt;
-&lt;h6&gt;¹) 3 Jahren vor &lt;span class=&quot;abspann&quot;&gt;&quot;Prinzessinnenbad&quot;&lt;/span&gt; geschrieben.&lt;/h6&gt;
-</description>
-        <pubDate>Tue, 30 Oct 2007 12:20:19 +0100</pubDate>
-        <link>/on%20the%20go/2007/10/30/ein-abend-am-proli-strandbad/</link>
-        <guid isPermaLink="true">/on%20the%20go/2007/10/30/ein-abend-am-proli-strandbad/</guid>
-        
-        <category>Schiffsbau</category>
-        
+        <category>Europe</category>
+
+        <category>Newspapers</category>
+
+        <category>NZZ</category>
+
+        <category>Skurill</category>
+
+        <category>Switzerland</category>
+
         <category>Zurich</category>
-        
-        <category>Theater</category>
-        
-        
+
+
         <category>on the go</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>
