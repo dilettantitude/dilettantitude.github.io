@@ -35,10 +35,10 @@ Reprise de l'histoire pour revivre la même chose, dans le même ordre, encore e
 Boucle infinie, devenir limité.
 Rationalité pour une routine insensée, existence bornée.
 
-Angle de départ irrationnel, et c'est un univers infini s'ouvre.
+Angle de départ irrationnel, et un univers infini s'ouvre.
 Aucun retour au point de départ possible, trajectoire renouvelée à chaque réflexion.
 Vertige du non-retour, de l'irrémédiablement perdu.
 Raturant chaque centimètre carré de la surface.
 Électron libre, en apparence.
 
-Rationnel/Irrationnel, divergence absolue de conséquences et pourtant totalement déterminées par un simple angle.
+Rationnel/Irrationnel, $\mathbb{Q}/\mathbb{R}\setminus \mathbb{Q}$, divergence absolue de conséquences et pourtant totalement déterminées par un angle.
