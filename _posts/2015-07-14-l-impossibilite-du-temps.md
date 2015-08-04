@@ -15,7 +15,7 @@ Tic tac toc, évolue comme une roue dentée qui nous <!--more-->écrase.
 - Ces derniers n'ont pas la prétention de vouloir expliquer le monde.
 - Il existe suffisamment de support pour cette théorie pour ne pas la taxer d'affabulation.
 Le temps minimal entre deux états est limité par le bas, éventuellement par la constante de Planck ou bien d'autres dépendant de l'école.
-En tout cas le temps est une séquence isolée d'états et non un mouvement continue, ou bien dense si tu préfères. C'est la physique quantique.
+En tout cas le temps est une séquence isolée d'états et non un mouvement continu, ou bien dense si tu préfères. C'est la physique quantique.
 - Cela défie notre expérience du réel. Mon avion s'écrase, et nous pouvons nous retrouver dans la situation avion intact/avion désintégré; je suis encore en vie/je suis déjà mort. Aucun état intermédiaire.
 - Exactement.
 - Je reste dans l'optique du paradoxe de Zénon sans lequel tu ne peux sortir sans continu. Je suis cette flèche, irrémédiablement, en limite, je m'écraserais, ayant conscience de chaque instant, arbitraire, qui me mène à la fin.
