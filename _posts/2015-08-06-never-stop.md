@@ -81,4 +81,4 @@ Je suis un morceau de chair.
 Aller, passe moi par dessus, rappelle moi à quel point il n'y a pas de place pour les états d'âme ici, pas de place pour les invertébrés.
 
 Fucking Moloch.
-But I think I like you.
+I think I like you.
