@@ -5,17 +5,12 @@ categories:
   - on the go
 ---
 
-Ses mains sur mon dos.
-Ses mains sur mes épaules.
-Ses mains sur mon bassin.
-Ses mains sur un film d'huile.
-Dessinent des courbes que je suis difficilement.
-Odeur chatoyante, ma tête encastrée dans un linceul.
-Descente, pénible, au sein du vortex de mes pensées.
+Ses mains sur mon dos, ses mains sur mes épaules, ses mains sur mon bassin, ses mains sur un film d'huile dessinent des courbes que je suis difficilement.
+Tête encastrée dans un linceul pour une descente pénible au sein du vortex de mes pensées.
 
 À l'instant où je foule de nouveau la poussière de cet innommable Moloch, une puissante vibration perce mon nombril, se propage au bas des reins.
-Effet similaire de basses saturées pénétrant un corps halluciné.
-Ou peut-être les vibrations dans mon cul d'une banquette défoncée dans une épave verte lancée à tombeau ouvert au milieu d'une circulation délirante .
+Tel des basses saturées pénétrant un corps halluciné.
+Ou probablement ce ne sont que ces vibrations dans mon cul d'amortisseurs défoncés, assis là sur cette banquette de moleskine sale et brulante, une épave verte lancée à tombeau ouvert au milieu d'une circulation délirante.
 Cette ville est implacable.
 Marche ou crève est sa marque.
 Et tout le monde marche.
@@ -28,9 +23,9 @@ Tu n'as pas le choix.
 Pas le choix de tourner en rond.
 
 
-- This is an exception
+- Bu hao, this is an exception
 - You're kidding me
-- We learned it, look at your notes "direction words". We also have another word for that. Write down
+- We learned it, look at your notes "direction words". We also have another expression for that. Write down
 - That's enough, these are more than one hundred today
 - Write down
 - I won't have...
@@ -49,8 +44,7 @@ Je ne comprends plus rien.
 Mes tempes explosent.
 
 Tient, et si je vomissais sur sa jupe?
-La bile coulant le long de la fine courbe de ses mollets de twenty five something.
-Jusqu'à cette moquette aux couleurs improbables.
+La bile coulant le long de la fine courbe de ses mollets, jusqu'à cette moquette aux couleurs improbables.
 
 - As you want since you pay. For Sunday, exercises page 25 up to 27 and translate text page 30 to 31.
 - Can you explain me how in hell I'll find the time to get it done?
