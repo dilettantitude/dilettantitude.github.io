@@ -1,201 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <description>Hanging around, having a cigarette.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Aug 2015 23:30:28 +0800</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2015 23:30:28 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
-
-      <item>
-        <title>Never Stop</title>
-        <description>&lt;p&gt;Ses mains sur mon dos, ses mains sur mes épaules, ses mains sur mon bassin, ses mains sur un film d’huile dessinent des courbes que je suis difficilement.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Dilettantitude</title>
+		<description>Hanging around, having a cigarette.</description>		
+		<link>http://www.dilettantitude.de</link>
+		<atom:link href="http://www.dilettantitude.de/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Never Stop</title>
+				        
+				
+					<description>&lt;p&gt;Ses mains sur mon dos, ses mains sur mes épaules, ses mains sur mon bassin, ses mains sur un film d’huile dessinent des courbes que je suis difficilement.
 Tête encastrée dans un linceul pour une descente pénible au sein du vortex de mes pensées.&lt;/p&gt;
 
-&lt;p&gt;À l’instant où je foule de nouveau la poussière de cet innommable Moloch, une puissante vibration perce mon nombril, se propage au bas des reins.
-Tel des basses saturées pénétrant un corps halluciné.
-Ou probablement ce ne sont que ces vibrations dans mon cul d’amortisseurs défoncés, assis là sur cette banquette de moleskine sale et brulante, une épave verte lancée à tombeau ouvert au milieu d’une circulation délirante.
-Cette ville est implacable.
-Marche ou crève est sa marque.
-Et tout le monde marche.
-Pas de place pour les existences invertébrées.
-Même la communauté des chats se comporte comme tel.
-Darwinisme impitoyable.
-Ici tu ne te suicides pas par vague à l’âme, c’est lorsque tes os se brisent sous ce rythme effréné.
-Auquel cas tu ne te manques pas.
-Tu n’as pas le choix.
-Pas le choix de tourner en rond.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bu hao, this is an exception&lt;/li&gt;
-  &lt;li&gt;You’re kidding me&lt;/li&gt;
-  &lt;li&gt;We learned it, look at your notes “direction words”. We also have another expression for that. Write down&lt;/li&gt;
-  &lt;li&gt;That’s enough, these are more than one hundred today&lt;/li&gt;
-  &lt;li&gt;Write down&lt;/li&gt;
-  &lt;li&gt;I won’t have…&lt;/li&gt;
-  &lt;li&gt;Write down! This is the way we speak&lt;/li&gt;
-  &lt;li&gt;I can’t anymore, I just can’t anymore&lt;/li&gt;
-  &lt;li&gt;You’re hopeless&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Depuis une heure et demi je contemple le gouffre de mon incapacité à avaler plus.
-Chaque nouveau mot, exception grammaticale est un concombre de mer cru à avaler d’une traite.
-Trois heures de sommeil par nuit depuis mon retour ont creusé des rivières de sang dans mes yeux.
-Les hauts le cœur me reprennent.
-Les mails, les meetings, l’administration, les talks, les syllabus ici, les lectures notes par là, les reviews, les préparations de publication, les projets de recherche, les équations, les voyages, les hôtels, les cours, les invités, my sorrow, les caractères, les tonalités, le vocabulaire, les structures… tout devient flou.
-Je ne comprends plus rien.
-Je ne comprends plus rien.
-Je ne comprends plus rien.
-Mes tempes explosent.&lt;/p&gt;
-
-&lt;p&gt;Tient, et si je vomissais sur sa jupe?
-La bile coulant le long de la fine courbe de ses mollets, jusqu’à cette moquette aux couleurs improbables.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;As you want since you pay. For Sunday, exercises page 25 up to 27 and translate text page 30 to 31.&lt;/li&gt;
-  &lt;li&gt;Can you explain me how in hell I’ll find the time to get it done?&lt;/li&gt;
-  &lt;li&gt;There is no other way to learn languages, you have no memory, so find time.&lt;/li&gt;
-  &lt;li&gt;Believe me…&lt;/li&gt;
-  &lt;li&gt;Come on, stop complaining. And also we make a dictation, so learn the characters too.&lt;/li&gt;
-  &lt;li&gt;You’re killing me.&lt;/li&gt;
-  &lt;li&gt;You not working hard enough. So, see you on Sunday. That makes 500 Kuai.&lt;/li&gt;
-  &lt;li&gt;???…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bitch.
-Fucking bitch.
-But I like you.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;isilletnottouthardzatway?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Disruption, remontée douloureuse du tunnel dans lequel j’erre.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mmmh!?&lt;/li&gt;
-  &lt;li&gt;Iz it ok? Not tou hard?&lt;/li&gt;
-  &lt;li&gt;Yes that’s goud&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vas y, torture moi le dos, massacre moi les omoplates, je ne suis plus à ça prêt.
-Violente mon corps à mesure que je cesse de penser.
-Je suis un morceau de chair.
-À quelques encablures existentielles d’une côte de porc sous le marteau d’un boucher.
-Aller, passe moi par dessus, rappelle moi à quel point il n’y a pas de place pour les états d’âme ici, pas de place pour les invertébrés.&lt;/p&gt;
-
-&lt;p&gt;Fucking Moloch.
-But I think I like you.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 06 Aug 2015 00:00:00 +0800</pubDate>
-        <link>/on%20the%20go/2015/08/06/never-stop/</link>
-        <guid isPermaLink="true">/on%20the%20go/2015/08/06/never-stop/</guid>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>Distorsions</title>
-        <description>&lt;dl&gt;
+				
+				<pubDate>Thu, 06 Aug 2015 00:00:00 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/08/06/never-stop/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/08/06/never-stop/</guid>
+			</item>
+		
+			<item>
+				<title>Distorsions</title>
+				        
+				
+					<description>&lt;dl&gt;
   &lt;dt&gt;Ondes se propageant:&lt;/dt&gt;
   &lt;dd&gt;membranes caoutchoutées –&amp;gt; vibrations du tympan –&amp;gt; marteau sur enclume –&amp;gt; production en rythme de neurotransmetteurs –&amp;gt; propagation axonale –&amp;gt; activation de configurations cérébrales –&amp;gt; ??? –&amp;gt; mémoire, plaisir.&lt;/dd&gt;
 &lt;/dl&gt;
 
-&lt;p&gt;Taxi.
-La tête bascule sur l’appui tête arrière.
-La musique, syncopée, accompagne ses balancements.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Ondes se propageant:&lt;/dt&gt;
-  &lt;dd&gt;lumière aveuglante par les fenêtres –&amp;gt; à haute fréquence, percutent des pupilles enchâssées dans des iris dilatés –&amp;gt; production intense de neurotransmetteurs  –&amp;gt; activation de configurations cérébrales –&amp;gt; ??? –&amp;gt; déconnection, vague à l’âme, perte du réel, souvenir.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Des arbres, devenus barrière verte, se précipitent dans l’œil.
-Les maisons, les passants pris dans une mélasse temporelle défilent, informes.
-Engloutis par le passé.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Ondes se propageant:&lt;/dt&gt;
-  &lt;dd&gt;cuir rêche –&amp;gt; rêche sous les doigts baladeurs –&amp;gt; peau –&amp;gt; nerfs –&amp;gt; production de neurotransmetteurs, à peine au dessus du seuil de latence –&amp;gt; activation de configurations cérébrales –&amp;gt; ??? –&amp;gt; sensualité, frémissement, chaleur.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Sanglé dans le fauteuil, les mains frappées de chaleur par le soleil.
-Le cuir, les arbres, la musique.&lt;/p&gt;
-
-&lt;p&gt;Le présent, dans cette bulle lancée à corps ouvert sur les routes, tord le réel à mesure que la vitesse augmente.
-Les droites se font courbes.
-Le temps s’accroche désespérément à l’espace.
-La conscience s’accroche désespérément au tangible.&lt;/p&gt;
-
-&lt;p&gt;Quelle est d’ailleurs cette frontière tangible?
-Est-ce encore un je?&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-        <link>/on%20the%20go/2015/07/30/distorsions/</link>
-        <guid isPermaLink="true">/on%20the%20go/2015/07/30/distorsions/</guid>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>Trajectoires Déterminées</title>
-        <description>&lt;p&gt;Poc.
+				
+				<pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/30/distorsions/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/30/distorsions/</guid>
+			</item>
+		
+			<item>
+				<title>Trajectoires Déterminées</title>
+				        
+				
+					<description>&lt;p&gt;Poc.
 Son feutré.
 Rouge contre vert.
 Droite, angle.
 Friction.
 Nouveau départ.&lt;/p&gt;
 
-&lt;p&gt;Même les plus simples trajectoires regorgent de complexité.
-Une trajectoire déterminée, à peine perturbée par le bruit des contingences — à mesure que ta vie avance, elle s’avèrent être somme toute prépondérantes — c’est ce que tu pensais.&lt;/p&gt;
-
-&lt;p&gt;Angle de réflexion.
-Réflexion spéculaire.
-Symétrie.
-Chuintement.
-Odeur de salon.&lt;/p&gt;
-
-&lt;p&gt;Univers rectangulaire aux quatre bandes feutrés.
-Une boule lancée.
-Principe trivial: une direction, une règle de réflexion symétrique, et la trajectoire est fixée.
-Supprimons toutes frictions et effets d’amortissements.
-L’évolution infinie de la boule sur cette surface se réduit totalement à son angle de départ.&lt;/p&gt;
-
-&lt;p&gt;Retour au point de départ?
-Parcours total de la surface?&lt;/p&gt;
-
-&lt;p&gt;Angle de départ rationnel, et la boule repassera infiniment au même endroit.
-Qu’importe la longueur de l’excursion, retour au point de départ, inlassablement.
-Reprise de l’histoire pour revivre la même chose, dans le même ordre, encore et encore.
-Boucle infinie, devenir limité.
-Rationalité pour une routine insensée, existence bornée.&lt;/p&gt;
-
-&lt;p&gt;Angle de départ irrationnel, et un univers infini s’ouvre.
-Aucun retour au point de départ possible, trajectoire renouvelée à chaque réflexion.
-Vertige du non-retour, de l’irrémédiablement perdu.
-Raturant chaque centimètre carré de la surface.
-Électron libre, en apparence.&lt;/p&gt;
-
-&lt;p&gt;Rationnel/Irrationnel, $\mathbb{Q}/\mathbb{R}\setminus \mathbb{Q}$, divergence absolue de conséquences et pourtant totalement déterminées par un angle.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 21 Jul 2015 00:00:00 +0800</pubDate>
-        <link>/on%20the%20go/2015/07/21/trajectoires-determinees/</link>
-        <guid isPermaLink="true">/on%20the%20go/2015/07/21/trajectoires-determinees/</guid>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>L&#39;Impossibilité du Temps</title>
-        <description>&lt;ul&gt;
+				
+				<pubDate>Tue, 21 Jul 2015 00:00:00 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/21/trajectoires-determinees/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/21/trajectoires-determinees/</guid>
+			</item>
+		
+			<item>
+				<title>L&#39;Impossibilité du Temps</title>
+				        
+				
+					<description>&lt;ul&gt;
   &lt;li&gt;Le concept d’un temps continu est une absurdité. Le temps est tout simplement discret.
 Il est même isolé.
 Tic tac toc, évolue comme une roue dentée qui nous &lt;!--more--&gt;écrase.&lt;/li&gt;
@@ -236,235 +99,92 @@ En tout cas le temps est une séquence isolée d’états et non un mouvement co
   &lt;li&gt;Hum?&lt;/li&gt;
   &lt;li&gt;Tu te serais autrement suicidé depuis bien longtemps.&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
-        <pubDate>Tue, 14 Jul 2015 00:00:00 +0800</pubDate>
-        <link>/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</link>
-        <guid isPermaLink="true">/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</guid>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>Garçon! Remets en Une</title>
-        <description>&lt;p&gt;La moiteur descend peu à peu, suintant le long des tempes, de la colonne vertébrale.
+				
+				<pubDate>Tue, 14 Jul 2015 00:00:00 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</guid>
+			</item>
+		
+			<item>
+				<title>Garçon! Remets en Une</title>
+				        
+				
+					<description>&lt;p&gt;La moiteur descend peu à peu, suintant le long des tempes, de la colonne vertébrale.
 Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 
-&lt;p&gt;Une nouvelle photo uploadée; maintenir les connaissances dans l’illusion d’une vie rythmée par les voyages; constamment; à touts points du globe.
-Weltgewandt, spannend.
-Une image n’est qu’une anomalie temporelle; et celles-ci sont bien une projection antagoniste de la réalité, de ma réalité.
-Entre ces images se cache une autre dimension, celle du temps: celle qui laisse des traces en marquant ton corps, ton esprit.
-Les heures d’attente, l’aéroport, cet hôtel anonyme, ce transport en commun bondé – dans quelle ville suis je déjà? – junk food à toutes et n’importe quelles heures, ta voute plantaire défoncée de ces kilomètres à errer sans but comme un vagabond, ces migraines qui t’écrasent au plafond de ta chambre.
-Et le sommeil.
-Décalage successifs tu ne sais plus quelle heure il est, où tu es, nuits blanches de préparation de talks, discussions infinies, équations jetées sur le papier entre 4 cafés.
-Et l’ennui! die unendliche Sinnlosigkeit eines solchen Leben.&lt;/p&gt;
-
-&lt;p&gt;Garçon! Remets en une&lt;/p&gt;
-
-&lt;p&gt;Le temps d’une gorgée je m’échappe de cette chaleur étouffante; de ma fatigue; de cette constante fuite en avant; des questions qui s’accumulent entre mes sourcils; de ma solitude, ce soir.
-Et c’est ma carcasse fatiguée que je traine ainsi jusqu’au bar.
-A cette heure cela n’a tout simplement plus de sens, le futur, le présent, le passé, la débauche d’énergie physique et intellectuelle.
-Cigarette et bière comme seul compagnon, des yeux vitreux dans la rue qui sombre – avec moi.&lt;/p&gt;
-
-&lt;p&gt;Garçon! Remets en une&lt;/p&gt;
 </description>
-        <pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
-        <link>/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</link>
-        <guid isPermaLink="true">/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</guid>
+				
+				<pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</guid>
+			</item>
+		
+			<item>
+				<title>48 Heures de Classes: tout un Programme...</title>
+				        
+				
+					<description>&lt;p&gt;Mes lacunes tant mémorielles qu&#39;organisationnelles firent qu&#39;un sombre matin de septembre 2000, la Gendarmerie se présenta à la porte de mes parents et s&#39;enquit gentiment de ma personne sous peine d&#39;être poursuivi en tant que déserteur; pour la deuxième fois. Cinq année auparavant, ayant ignoré de multiples courriers d&#39;appel au recensement, je fus emmené quasi manu militari faire mes trois jours au cours desquels je pus persuader un bourru commandant, bon père de famille, de reporter le service après mes études. Nous sommes en 2000, et encore une fois j&#39;ignorais quelques courriers, qui -- je l&#39;appris ultérieurement -- s&#39;interrogeaient sur la situation de mes études et éventuelles disponibilités afin de rejoindre les rangs. A présent, aucune échappatoire possible. C&#39;est ainsi que -- deux mois avant le dernier contingent appelé suite à la suppression définitive du service militaire -- je rentrais sous les drapeaux. Ce fut une expérience particulièrement absurde, que je ne regrette cependant pas. Je trouve d&#39;ailleurs que la suppression du service est malheureuse pour la démocratie et l&#39;armée en elle même, mais c&#39;est une autre histoire. Il y a quelques semaines, en rangeant, je suis cependant tombé sur ces quelques notes témoignant du quotidien durant mes classes.&lt;/p&gt;
 
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>48 Heures de Classes: tout un Programme...</title>
-        <description>&lt;p&gt;Mes lacunes tant mémorielles qu&#39;organisationnelles firent qu&#39;un sombre matin de septembre 2000, la Gendarmerie se présenta à la porte de mes parents et s&#39;enquit gentiment de ma personne sous peine d&#39;être poursuivi en tant que déserteur; pour la deuxième fois. Cinq année auparavant, ayant ignoré de multiples courriers d&#39;appel au recensement, je fus emmené quasi manu militari faire mes trois jours au cours desquels je pus persuader un bourru commandant, bon père de famille, de reporter le service après mes études. Nous sommes en 2000, et encore une fois j&#39;ignorais quelques courriers, qui -- je l&#39;appris ultérieurement -- s&#39;interrogeaient sur la situation de mes études et éventuelles disponibilités afin de rejoindre les rangs. A présent, aucune échappatoire possible. C&#39;est ainsi que -- deux mois avant le dernier contingent appelé suite à la suppression définitive du service militaire -- je rentrais sous les drapeaux. Ce fut une expérience particulièrement absurde, que je ne regrette cependant pas. Je trouve d&#39;ailleurs que la suppression du service est malheureuse pour la démocratie et l&#39;armée en elle même, mais c&#39;est une autre histoire. Il y a quelques semaines, en rangeant, je suis cependant tombé sur ces quelques notes témoignant du quotidien durant mes classes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;05:30: Levé, habillé en jogging bleu, trop large, trop court, car sport en perspective.&lt;/li&gt;
-&lt;li&gt;06:00: Rassemblement section pour attente devant l&#39;ordinaire. Attente debout.&lt;/li&gt;
-&lt;li&gt;06:30: Entrée dans l&#39;ordinaire.&lt;/li&gt;
-&lt;li&gt;07:00: Sortie de l&#39;ordinaire, direction travaux d’intérêts généraux (euphémisme désignant le nettoyage des toilettes).&lt;/li&gt;
-&lt;li&gt;07:30: rassemblement section, direction rapport. Attente debout.&lt;/li&gt;
-&lt;li&gt;08:15: fin du rapport, le sport est annulé. En effet, il vient d&#39;être annoncé un départ imminent -- attendu depuis quasiment une semaine -- pour opération sur le terrain à 11:30.&lt;/li&gt;
-&lt;li&gt;08:30: Préparation du sac à dos et changement de fringues, passage au treillis de combat (trop large, trop long).&lt;/li&gt;
-&lt;li&gt;09:00: Direction rapport pour perception de la nourriture. Attente debout.&lt;/li&gt;
-&lt;li&gt;10:00: Pique-nique perçu -- un sac minuscule -- nous apprenons que le départ est reporté après le déjeuner. Attente debout.&lt;/li&gt;
-&lt;li&gt;10:30: Tentative de perception du matériel. Attente debout.&lt;/li&gt;
-&lt;li&gt;11:30: Echec, donc direction l&#39;ordinaire. Attente debout.&lt;/li&gt;
-&lt;li&gt;11:45: Repas.&lt;/li&gt;
-&lt;li&gt;12:15: Travaux d’intérêts généraux (dépoussiérage des prises de courant).&lt;/li&gt;
-&lt;li&gt;12:45: Rassemblement, direction rapport. Attente debout.&lt;/li&gt;
-&lt;li&gt;13:30: Fin du rapport direction perception du matériel, deuxième acte. Attente debout.&lt;/li&gt;
-&lt;li&gt;14:30: Contrairement à ce qui est annoncé pour la manoeuvre, nous n&#39;aurons pas de fusils, armes, pelles ou autres trucs typiquement militaires, juste des tentes, des sacs de couchages et des sacs poubelles. Attente debout.&lt;/li&gt;
-&lt;li&gt;14:45: En attendant un moyen de locomotion, nous refaisons les sacs 2-3 fois. Nous apprenons que 80% des activités programmées sont annulées. Attente debout&lt;/li&gt;
-&lt;li&gt;16:00: Toujours en attente debout, nous apprenons que nous n&#39;allons finalement pas à Vannes mais dans un vague champ à 10km... Attente debout.&lt;/li&gt;
-&lt;li&gt;17:30: Départ en car.&lt;/li&gt;
-&lt;li&gt;18:00: Arrivée, montage de tente.&lt;/li&gt;
-&lt;li&gt;18:30: Glande. Nous apprenons au passage que 80% des 20% d&#39;activités restantes sont annulées.&lt;/li&gt;
-&lt;li&gt;19:30: Repas. Marche commando prévu pour le soir. Passionnant.&lt;/li&gt;
-&lt;li&gt;19:30: Déplacement d&#39;un point A à un point B puis attente (debout) dans la nuit.&lt;/li&gt;
-&lt;li&gt;20:30: Après que les officiers et sous officiers se soient blindés la gueule, on nous apprend que un par un toutes les deux minutes nous devrons nous rendre du point B au point C. But, suivre un chemin seul dans la nuit. bouhhhhh.... Attente debout.&lt;/li&gt;
-&lt;li&gt;22:00: On nous apprend que la marche est annulée, retour au point A.&lt;/li&gt;
-&lt;li&gt;22:30: Nous avons le droit à un mars et dodo.&lt;/li&gt;
-&lt;li&gt;00:00: Réveil pour la garde -- faire les cents pas durant une heure -- puis retour au lit.&lt;/li&gt;
-&lt;li&gt;01:00: Il fait -2.&lt;/li&gt;
-&lt;li&gt;07:30: Levé. Attente debout.&lt;/li&gt;
-&lt;li&gt;08:00: Dérouillage pendant que les gros sous offs vont chercher le PDDM oublié hier. Occasion pour les sous offs restant de faire une démonstration top less de leur musculature. Impressionant... Attente debout.&lt;/li&gt;
-&lt;li&gt;09:30: PDDM arrivé.&lt;/li&gt;
-&lt;li&gt;10:00: PDDM Pris, attente debout.&lt;/li&gt;
-&lt;li&gt;10:30: Disposition de combat, achtung. Nous marchons dans la forêt à la queue, puis nous rampons dans des chemins avec un baton dans les mains en guise de fusil (sans blague).&lt;/li&gt;
-&lt;li&gt;11:30: Fin des &lt;del&gt;guignoleries&lt;/del&gt; exercices. Attente debout.&lt;/li&gt;
-&lt;li&gt;12:00: Déjeuner (debout), attente debout.&lt;/li&gt;
-&lt;li&gt;12:30: Rangement tente et bouclage sac.&lt;/li&gt;
-&lt;li&gt;12:45: Fin du rangement. Attente debout.&lt;/li&gt;
-&lt;li&gt;14:00: Reprise des exercices. Cette fois ci nous apprenons à nous mettre des fougères dans les poches pour nous cacher...&lt;/li&gt;
-&lt;li&gt;15:30: Fin de &lt;del&gt;la mascarade&lt;/del&gt; l&#39;exercice. Attente (assise!) des véhicules pour le retour.&lt;/li&gt;
-&lt;li&gt;16:15: Par désoeuvrement nous faisons de l&#39;OS (ordre serré, bref marcher au pas).&lt;/li&gt;
-&lt;li&gt;16:30: Fin de l&#39;OS, attente debout.&lt;/li&gt;
-&lt;li&gt;17:00: Départ.&lt;/li&gt;
-&lt;li&gt;17:20: Arrivée.&lt;/li&gt;
-&lt;li&gt;17:30: Rassemblement devant l&#39;ordinaire. Attente debout.&lt;/li&gt;
-&lt;li&gt;18:00: Repas.&lt;/li&gt;
-&lt;li&gt;18:30: Consignés dans les chambres. Glande sur le palier.&lt;/li&gt;
-&lt;li&gt;22:00: Je suis devant ces lignes et suis effaré:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Activités effectuées en 40H&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sac à Dos: 1/2 Heure;&lt;/li&gt;
-&lt;li&gt;Garde: 1/2 Heure;&lt;/li&gt;
-&lt;li&gt;Marche à la con, commando raté: 2H30;&lt;/li&gt;
-&lt;li&gt;OS: 1/4 Heure;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li&gt;Total: 3H45&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;Attente debout: 16H15;&lt;/li&gt;
-&lt;li&gt;Attente ou glande assise: 5:45;&lt;/li&gt;
-&lt;ul&gt;
-&lt;li&gt;Total 22H00&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;Sommeil et divers: 12H00;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
-        <pubDate>Tue, 08 May 2012 01:10:28 +0800</pubDate>
-        <link>/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</link>
-        <guid isPermaLink="true">/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</guid>
+				
+				<pubDate>Tue, 08 May 2012 01:10:28 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</guid>
+			</item>
+		
+			<item>
+				<title>Droite--Gauche: Dangers d&#39;une Topologie Unidimensionelle.</title>
+				        
+				
+					<description>&lt;p&gt;Une droite se droitisant, une gauche se radicalisant, un centre droit se gauchisant, une extrême droite se dédiabolisant, etc. Au vue de la campagne et des résultats du second tour, les commentaires vont bon train sur l&#39;évolution de la France le long du spectre politique. Comme argumenté dans un &lt;a title=&quot;Chroniques Berliniquaises&quot; href=&quot;http://chronique-berliniquaise.blogspot.de/2012/04/droites-de-regression.html&quot;&gt;poste récent&lt;/a&gt;, quand bien même les résultats des urnes montrerait une forte droitisation de la société Française au sens classique du terme, il n&#39;en est en fait absolument rien. A mon sens, la vision classique du spectre politique gauche-droite est bien trop restrictive pour faire émerger une analyse raisonnable des affinités politiques citoyennes et leur évolution. Ce simplisme permet il est vrai de se positionner rapidement -- à première vue efficacement -- en tant que politicien et accentuer les clivages nécessaires à la différentiation de l&#39;offre. Valable au siècle dernier ou bien dans des pays bipartites, il est ici devenu la source d&#39;un brouillage néfaste à la compréhension du paysage politique. Il en résulte un positionnement des partis politiques et de leurs représentants biaisé conduisant à une confusion, un dégoût ou bien une méprise dangereux au sein de l&#39;électorat.&lt;/p&gt;
 
-        <category>Absurdity</category>
-
-        <category>Armée</category>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>Droite--Gauche: Dangers d&#39;une Topologie Unidimensionelle.</title>
-        <description>&lt;p&gt;Une droite se droitisant, une gauche se radicalisant, un centre droit se gauchisant, une extrême droite se dédiabolisant, etc. Au vue de la campagne et des résultats du second tour, les commentaires vont bon train sur l&#39;évolution de la France le long du spectre politique. Comme argumenté dans un &lt;a title=&quot;Chroniques Berliniquaises&quot; href=&quot;http://chronique-berliniquaise.blogspot.de/2012/04/droites-de-regression.html&quot;&gt;poste récent&lt;/a&gt;, quand bien même les résultats des urnes montrerait une forte droitisation de la société Française au sens classique du terme, il n&#39;en est en fait absolument rien. A mon sens, la vision classique du spectre politique gauche-droite est bien trop restrictive pour faire émerger une analyse raisonnable des affinités politiques citoyennes et leur évolution. Ce simplisme permet il est vrai de se positionner rapidement -- à première vue efficacement -- en tant que politicien et accentuer les clivages nécessaires à la différentiation de l&#39;offre. Valable au siècle dernier ou bien dans des pays bipartites, il est ici devenu la source d&#39;un brouillage néfaste à la compréhension du paysage politique. Il en résulte un positionnement des partis politiques et de leurs représentants biaisé conduisant à une confusion, un dégoût ou bien une méprise dangereux au sein de l&#39;électorat.&lt;/p&gt;
-
-&lt;p&gt;Par essence, la politique adresse de nombreuses problématiques qui ne se projettent pas -- comme voudraient nous le faire croire en particulier les extrêmes et les médias -- sur cette ligne droite dont le zéro serait le centre. Si l&#39;on devait se restreindre à une dimension pour représenter le spectre politique, un cercle me semblerait plus adapté, tant il est que de nombreuses revendications et similitudes du corps électorat de la dite extrême droite rejoignent celle de la dite extrême gauche. Mais ici encore -- avant que les électeurs de Mélenchon ne bondissent sur leur chaise -- nous constatons rapidement que cette représentation ne tient pas la route, tant les motivations ainsi que les référentiels historiques au sein de ces partis divergent profondément. Prenons un autre exemple simple: Le parti écologique. Est-ce une offre politique de droite, de gauche, du centre? Au vue de leur pendant germanique la réponse est loin d&#39;être simple.&lt;/p&gt;
-&lt;p&gt;Pour parer à ce problème, une déconstruction radicale de ce paradigme unidimensionnel semble nécessaire. Clairement, il s&#39;agit de conserver un schéma de représentations simple. Cela facilite le choix démocratique et permet d&#39;opposer les points de vues. Mais ce schéma ne doit plus s&#39;effectuer sur un clivage gauche droite, mais autours de points politiques centraux. L&#39;état de droit, la justice, la liberté individuelle, la liberté économique, l&#39;étatisme économique, la politique étrangère, l&#39;intégration-assimilation-immigration, le conservatisme, la laïcité, le nationalisme, le développement durable, etc. Il est évident que ces notions ne se projettent pas forcément dans cette graduation gauche-droite -- voir la justice par exemple, ou bien la liberté individuelle -- mais forment une géométrie multidimensionnelle. Celle-ci, tout en conservant des clivages forts sur chacun de ces points, permet ce positionnement plus adéquat et une vision plus précise de l&#39;offre des candidats ou partis.&lt;/p&gt;
-&lt;p&gt;Elle permet aussi d&#39;éviter les erreurs des candidats et partis lors de leur confrontations. L&#39;exemple du Front National ou bien du PC est flagrant. Considérés dans les attaques respectives du PS et de l&#39;UMP comme des entités fixes aux contours bien définis -- raciste, réactionnaire voir même fasciste pour le FN, étatiste, criminel (le livre noir du communisme comme bible de chevet), liberticide, dictatoriale pour le PC -- sont bien plus mouvants sur quasiment tous ces points de vues. Alors que sous la houlette du père, le FN se faisait le chantre de l&#39;ultra libéralisme économique, fleurait avec le nazisme et le colonialisme, celui-ci est devenu sous la fille fondamentalement étatiste, nationaliste, (par opportunisme) anti-islamisque laïque, ultra-policé et n&#39;est plus raciste -- il comporte une xénophobie latente (radicalement différente du racisme) comme dans de grandes parties de l&#39;UMP voire même certains pans du front de gauche et de la LCR en ce qui concerne les travailleurs étrangers. En ce qui concerne le rejeton du PC, le PG, il n&#39;est plus dans la nostalgie Lenino-Staliniste. Au productivisme industriel s&#39;oppose à présent le développement durable (voir la position sur le nucléaire); d&#39;internationalisme ouvrier, il est devenu très gaulliste, protectionniste, Jacobiniste (avec ses accents nationalistes) et conservateur (au niveau social). Cette mouvance réelle est masquée par leur positionnement supposé et contribue à des attaques dénuées de sens des partis traditionnels. Je suis complètement sidéré de voir que certains au PS ou bien à l&#39;UMP continuent d&#39;attaquer respectivement le FN  et le PC le long de ces même lignes éculées -- facisme / pacte Germano-Soviétique -- comme des chiens de Pavlov. Ils oublient de voir cette  mutation -- dans le cas du FN en un parti neo-conservateur, réactionnaire à l&#39;image de partis comme l&#39;UDC en suisse ou bien le PVV aux Pays-Bas; dans le cas du PG en un parti populiste socialo-conservateur à l&#39;image de Die Linke en Allemagne. Crier haro aux racistes neo-nazi ou bien ces sanguinaires communistes est contre productif, alors qu&#39;une étude de leur programme suffirait -- à la grosse différence de l&#39;UDC par exemple -- a démontrer la consternante vacuité, les contradictions, le populisme et surtout l&#39;irréalisme de ces programme.&lt;/p&gt;
-&lt;p&gt;Argumenter contre ces deux partis revient donc à mesurer point par point leurs programmes à l&#39;aune des thèmes idéologiques ci-avant cités ayant ainsi un impact plus important car ciblant des faits actuels. Car malheureusement, la réalité est qu&#39;en lieu et place de cette confrontation franche du PS avec le (non)programme du FN, ou bien à l&#39;UMP avec celui du PG, nous constatons la pérennité de ces vielles postures gauche-droite, inadaptées. Elles n&#39;éclairent en rien les citoyens qui, constatant la fatuité de ces attaques, se laissent subjuguer par les sirènes du populisme.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 May 2012 11:17:37 +0800</pubDate>
-        <link>/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</link>
-        <guid isPermaLink="true">/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</guid>
+				
+				<pubDate>Thu, 03 May 2012 11:17:37 +0800</pubDate>
+				<link>http://www.dilettantitude.de/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</guid>
+			</item>
+		
+			<item>
+				<title>S-Bahn: Experience Olfactive</title>
+				        
+				
+					<description>&lt;p&gt;Café bu, bottes enfilées, cigarette fumée, enfin sur le quai.&lt;/p&gt;
 
-        <category>Elections</category>
-
-        <category>FN</category>
-
-        <category>France</category>
-
-        <category>Politics</category>
-
-        <category>PS</category>
-
-        <category>UMP</category>
-
-
-        <category>long</category>
-
-      </item>
-
-      <item>
-        <title>S-Bahn: Experience Olfactive</title>
-        <description>&lt;p&gt;Café bu, bottes enfilées, cigarette fumée, enfin sur le quai.&lt;/p&gt;
-
-&lt;p&gt;Les sardines se présentent en paquets compacts devant la boite sifflante; hurlante; freinante; enfin stoppée. Pour deux €uros quarante le tour, le banc est content. La boite se ferme; est fermée. Aucun ne pense à ouvrir ne serait-ce qu&#39;un hublot. Non, le banc se nourrissant; parlant; suant; puant; se vautre avec complaisance dans cette promiscuité olfactive. Toute atteinte à ce complexe bouquet d’arômes d&#39;aisselles; de cavités buccales; de vêtements rances; de charcuteries lourdes; de bières matinales; provoque une levée de boucliers d&#39;indignation collective. Indignation collective de banc serrant les rangs; conspuant; pestant &quot;Es zieht&quot; (ca tire), &quot;Schliessen Sie das Fenster&quot; (fermez la fenêtre), &quot;Er ist verrückt oder wat&quot; (Il est toqué ou quoi?).&lt;/p&gt;
-&lt;p&gt;Trente minutes plus tard, la boite, après chargement et déchargement de morceaux de banc, arrive à destination, vomissant son contenu puant et trébuchant sur le quai. La palette d&#39;odeurs, elle,  telle une mauvaise graisse de cuisine, reste chuintante collée sur les parois et les sièges.&lt;/p&gt;
-&lt;p&gt;La journée commence.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Mar 2012 22:28:38 +0800</pubDate>
-        <link>/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</link>
-        <guid isPermaLink="true">/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</guid>
+				
+				<pubDate>Mon, 12 Mar 2012 22:28:38 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</guid>
+			</item>
+		
+			<item>
+				<title>Le Pouvoir du Mendiant</title>
+				        
+				
+					<description>&lt;p&gt;A Berlin, il monte dans le métro ou le S-Bahn au hasard d&#39;une station. Il peut revêtir toutes sortes d&#39;accoutrements: Le style &quot;long cheveux gras accompagné de son éternel bâtard aux oreilles découragées&quot;, le style &quot;effronté, rebelle jusqu&#39;au bout des innombrables tatouages, oeil jauni par l&#39;alcool et autres drogues&quot; ou encore le style &quot;pas de bol; je suis là; les cadavres de ma vie ratée traînants derrière mes sneakers usés&quot;. Le voici, le vendeur de &lt;a href=&quot;http://www.motz-berlin.de/&quot; target=&quot;_blank&quot;&gt;motz&lt;/a&gt;, &lt;a href=&quot;http://www.strassenfeger.org/&quot; target=&quot;_blank&quot;&gt;Strassenfeger&lt;/a&gt;, ou autres &lt;a href=&quot;http://www.die-stuetze.com/&quot; target=&quot;_blank&quot;&gt;Stütze&lt;/a&gt; -- magazines pour sans abris.&lt;/p&gt;
 
-        <category>Berlin</category>
-
-        <category>Impressions</category>
-
-        <category>Sbahn</category>
-
-
-        <category>on the go</category>
-
-      </item>
-
-      <item>
-        <title>Le Pouvoir du Mendiant</title>
-        <description>&lt;p&gt;A Berlin, il monte dans le métro ou le S-Bahn au hasard d&#39;une station. Il peut revêtir toutes sortes d&#39;accoutrements: Le style &quot;long cheveux gras accompagné de son éternel bâtard aux oreilles découragées&quot;, le style &quot;effronté, rebelle jusqu&#39;au bout des innombrables tatouages, oeil jauni par l&#39;alcool et autres drogues&quot; ou encore le style &quot;pas de bol; je suis là; les cadavres de ma vie ratée traînants derrière mes sneakers usés&quot;. Le voici, le vendeur de &lt;a href=&quot;http://www.motz-berlin.de/&quot; target=&quot;_blank&quot;&gt;motz&lt;/a&gt;, &lt;a href=&quot;http://www.strassenfeger.org/&quot; target=&quot;_blank&quot;&gt;Strassenfeger&lt;/a&gt;, ou autres &lt;a href=&quot;http://www.die-stuetze.com/&quot; target=&quot;_blank&quot;&gt;Stütze&lt;/a&gt; -- magazines pour sans abris.&lt;/p&gt;
-
-&lt;p&gt;Deux dénominateurs communs pour ces tristes vendeurs de la misère: Le texte et le pouvoir.&lt;/p&gt;
-&lt;p&gt;Le texte, appris par cœur, n&#39;est modulé que légèrement  au gré de la fantaisie par quelques retouches superficiels. Une triste et discordante récitation. Elle vient de loin. Nous récitons intérieurement les quelques phrases en rythme, comme les grenouilles de bénitiers le font lors de l&#39;homélie. En ce qui concerne le pouvoir, autant dans l&#39;échelle sociale un barreau plus bas n&#39;existe pas -- sauf peut-être dans la prostitution masculine -- autant personne n&#39;ose lever les yeux sur cette apparition désagréable. Il existe un rapport de force étonnant entre ce dernier barreau et les supérieurs, nécessité subconsciente de savoir qu&#39;il existe. Non affirmée, notre honteuse supériorité transpire de tous les pores de sa mendicité. C&#39;est écrasant. Tout le monde fixe ses pompes, son livre, son téléphone. Il passe le magazine à la hauteur des yeux baissés. Présence étouffante. Encore trente secondes jusqu&#39;à la prochaine station.&lt;/p&gt;
-&lt;p&gt;Il ressort, quelques centimes de plus dans les poches de quelques voyageurs terrassés. Le wagon respire. Encore une station et son image est oubliée. Au final, nous nous remettons facilement de ce genre d&#39;humiliations.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Mar 2012 13:37:22 +0800</pubDate>
-        <link>/long/2012/03/01/le-pouvoir-du-mendiant/</link>
-        <guid isPermaLink="true">/long/2012/03/01/le-pouvoir-du-mendiant/</guid>
+				
+				<pubDate>Thu, 01 Mar 2012 13:37:22 +0800</pubDate>
+				<link>http://www.dilettantitude.de/long/2012/03/01/le-pouvoir-du-mendiant/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/long/2012/03/01/le-pouvoir-du-mendiant/</guid>
+			</item>
+		
+			<item>
+				<title>Heimat Liebi</title>
+				        
+				
+					<description>&lt;p&gt;Ich wusste, dass die Schweizer eine zurecht besonders geprägte Liebesbeziehung zur Heimat haben. Es ist bestimmt der Grund dafür, dass es das einzige Land in der Welt das trotz vier Sprachen, extreme Föderalismus, einzigartige direkte Demokratie, hervorragend gut zusammenhält.&lt;/p&gt;
 
-        <category>Berlin</category>
-
-        <category>Life</category>
-
-        <category>Poverty</category>
-
-        <category>Power</category>
-
-
-        <category>long</category>
-
-      </item>
-
-      <item>
-        <title>Heimat Liebi</title>
-        <description>&lt;p&gt;Ich wusste, dass die Schweizer eine zurecht besonders geprägte Liebesbeziehung zur Heimat haben. Es ist bestimmt der Grund dafür, dass es das einzige Land in der Welt das trotz vier Sprachen, extreme Föderalismus, einzigartige direkte Demokratie, hervorragend gut zusammenhält.&lt;/p&gt;
-
-&lt;p&gt;Die Grundidee, dass eine Nation auf die drei Beine der Sprache, der Kultur und des Territorium mindestens stehen sollte, gilt hier nicht. Belgium oder Spanien tun sich mit dieser zwar karikaturartig, dennoch teilweise wahren Axiomatik schwer. In der Schweiz ticken die Uhren anders.&lt;/p&gt;
-&lt;p&gt;Man kann der Umgang mit der nationalen Sache an der Fahne erkennen. Ich habe in keinem Land so viele nationale Fahne gesehen. Es fehlt keine einzige Gelegenheit den weißen Kreuz auf roten Hintergrund irgendwo zu drücken, zu hängen, zu zeigen. Im Supermarkt sind alle Schweizer Produkte -- und Gott weiß ja, wegen der extrem geschützten Landwirtschaft, sind es sehr viele -- mit dem Flähnschen versehen. Selten sind Werbungen ohne irgendwelche Zusammenhang mit der Fahne.&lt;/p&gt;
-&lt;p&gt;Er schleicht sich bis in den Marken. Die Hälfte der Pullover von Strellson haben einen breiten Kreuz auf dem Brust, bis auf den Gürteln oder Socken ist eine Schweizer Fahne zu finden. Die Firma Victorinox, Produzent zahlreiche Koffern, Schweizer Messer und unter anderem offizieller Zulieferer der Schweizer Armee, macht die Sachen nicht Halbwegs. Die Produkte sind alle Rot mit weißem Kreuz.&lt;/p&gt;
-&lt;p&gt;Eine Fahne Orgie ist das alles. Selbst in Frankreich -- nicht besonders bekannt für seine Bescheidenheit bezüglich nationaler Gefühle -- wäre das weit zu viel.&lt;/p&gt;
-&lt;p&gt;Es stört aber nicht so sehr, weil der Fahne ist ja sympatisch. Ja man könnte sagen, die haben den schönsten. Eine sehr gelungene Farben Harmonie ist das. Und dieser knaller Rot ist einfach wunderbar. Und vor allem das gewisse was:&lt;/p&gt;
-&lt;p&gt;http://www.youtube.com/watch?v=FjUfGBARWs8&amp;amp;rel=1&lt;/p&gt;
-&lt;p&gt;Die Schweiz hält zusammen, weil eine Sessession gleich der Tilgung der schönsten Fahne der Welt bedeuten würde. Alles eine Frage des Stils.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 17 Nov 2007 15:05:33 +0800</pubDate>
-        <link>/on%20the%20go/2007/11/17/heimat-liebi/</link>
-        <guid isPermaLink="true">/on%20the%20go/2007/11/17/heimat-liebi/</guid>
-
-        <category>Flag</category>
-
-        <category>Nation</category>
-
-        <category>Switzerland</category>
-
-
-        <category>on the go</category>
-
-      </item>
-
-  </channel>
+				
+				<pubDate>Sat, 17 Nov 2007 15:05:33 +0800</pubDate>
+				<link>http://www.dilettantitude.de/on%20the%20go/2007/11/17/heimat-liebi/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2007/11/17/heimat-liebi/</guid>
+			</item>
+		
+	</channel>
 </rss>
