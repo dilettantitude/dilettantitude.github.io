@@ -3,8 +3,8 @@
 	<channel>
 		<title>Dilettantitude</title>
 		<description>Hanging around, having a cigarette.</description>		
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.dilettantitude.de</link>
+		<atom:link href="http://www.dilettantitude.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Apatride</title>
@@ -18,8 +18,8 @@ Street food, un simple banc à la marge du congrès, la sueur qui colle les chem
 </description>
 				
 				<pubDate>Mon, 17 Aug 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/08/17/Apatride/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/08/17/Apatride/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/08/17/Apatride/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/08/17/Apatride/</guid>
 			</item>
 		
 			<item>
@@ -32,8 +32,8 @@ Tête encastrée dans un linceul pour une descente pénible au sein du vortex de
 </description>
 				
 				<pubDate>Thu, 06 Aug 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/08/06/never-stop/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/08/06/never-stop/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/08/06/never-stop/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/08/06/never-stop/</guid>
 			</item>
 		
 			<item>
@@ -48,8 +48,8 @@ Tête encastrée dans un linceul pour une descente pénible au sein du vortex de
 </description>
 				
 				<pubDate>Thu, 30 Jul 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/07/30/distorsions/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/07/30/distorsions/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/30/distorsions/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/30/distorsions/</guid>
 			</item>
 		
 			<item>
@@ -66,8 +66,8 @@ Nouveau départ.&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 21 Jul 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/07/21/trajectoires-determinees/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/07/21/trajectoires-determinees/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/21/trajectoires-determinees/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/21/trajectoires-determinees/</guid>
 			</item>
 		
 			<item>
@@ -119,8 +119,8 @@ En tout cas le temps est une séquence isolée d’états et non un mouvement co
 </description>
 				
 				<pubDate>Tue, 14 Jul 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/14/l-impossibilite-du-temps/</guid>
 			</item>
 		
 			<item>
@@ -133,8 +133,8 @@ Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
-				<link>/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</link>
-				<guid isPermaLink="true">/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2015/07/02/gar%C3%A7on-remets-en-une/</guid>
 			</item>
 		
 			<item>
@@ -146,8 +146,8 @@ Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 08 May 2012 01:10:28 +0800</pubDate>
-				<link>/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</link>
-				<guid isPermaLink="true">/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2012/05/08/48-heures-de-classes-tout-un-programme/</guid>
 			</item>
 		
 			<item>
@@ -159,8 +159,8 @@ Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 03 May 2012 11:17:37 +0800</pubDate>
-				<link>/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</link>
-				<guid isPermaLink="true">/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</guid>
+				<link>http://www.dilettantitude.de/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/long/2012/05/03/droite-gauche-dangers-dune-topologie-unidimensionelle/</guid>
 			</item>
 		
 			<item>
@@ -172,8 +172,8 @@ Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 12 Mar 2012 22:28:38 +0800</pubDate>
-				<link>/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</link>
-				<guid isPermaLink="true">/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</guid>
+				<link>http://www.dilettantitude.de/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/on%20the%20go/2012/03/12/s-bahn-experience-olfactive/</guid>
 			</item>
 		
 			<item>
@@ -185,8 +185,8 @@ Sale, fatigué, les yeux perdu dans la rue qui sombre — avec moi.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 01 Mar 2012 13:37:22 +0800</pubDate>
-				<link>/long/2012/03/01/le-pouvoir-du-mendiant/</link>
-				<guid isPermaLink="true">/long/2012/03/01/le-pouvoir-du-mendiant/</guid>
+				<link>http://www.dilettantitude.de/long/2012/03/01/le-pouvoir-du-mendiant/</link>
+				<guid isPermaLink="true">http://www.dilettantitude.de/long/2012/03/01/le-pouvoir-du-mendiant/</guid>
 			</item>
 		
 	</channel>
