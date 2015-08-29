@@ -87,7 +87,8 @@ En plus des conditions du passé, ces contraintes manifestant des espérances fu
 Illusion nous poussant à continuer ce jeu, à ne pas se jeter d'un pont.
 
 La porte du café s'ouvre.
-Une vertigineuse paire de jambes nues qu'un parapluie crème n'a pu protéger de la pluie s'avance.  
+Une vertigineuse paire de jambes nues qu'un parapluie crème n'a pu protéger de la pluie s'avance.
+La véritable raison de ma présence ici.
 "Hello."  
 Liberté conditionnelle, tellement conditionnée par le carcan des axiomatiques cherchant à l'expliquer, qu'elle se détruit elle même dans mon esprit.
 Et pourtant j'aime me penser libre, j'aime penser que l'ensemble des possibles qui s'ouvrent à moi est toujours aussi riche.
