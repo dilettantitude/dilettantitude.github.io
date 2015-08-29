@@ -96,5 +96,5 @@ Liberté conditionnelle, tellement conditionnée par le carcan des axiomatiques 
 Et pourtant je désire me penser libre, je désire penser que l'ensemble des possibles qui s'ouvrent à moi est toujours aussi riche.
 Je désire penser que ce fut vrai, car c'est toujours ainsi que j'agis.
 Aujourd'hui cependant, cela n'a plus aucune importance.
-Pour aujourd'hui au moins.
+Pour aujourd'hui du moins.
 
