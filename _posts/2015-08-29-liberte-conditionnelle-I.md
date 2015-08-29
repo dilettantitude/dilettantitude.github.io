@@ -88,7 +88,7 @@ En plus des conditions du passé, ces contraintes manifestant des espérances fu
 Illusion nous poussant à continuer ce jeu, à ne pas se jeter d'un pont.
 
 La porte du salon s'ouvre.
-Une vertigineuse paire de jambes nues qu'un parapluie crème n'a pu protéger de la pluie s'avance.
+Une vertigineuse paire de jambes nues qu'un parapluie crème n'a su protéger de la pluie s'avance.
 La véritable raison de ma présence ici.
 "Hello..."
 
