@@ -79,7 +79,7 @@ C'est dans un certain sens logique, l'univers des opportunités d'un homme au se
 Le libre arbitre entre alors en conflit entre la liberté de choisir un chemin futur parmi d'autres sans autres contraintes que le passé avec le problème de préserver un ensemble suffisamment large de choix à l'instant $t+h$.
 D'autant plus dans un univers où l'incertitude est particulièrement grande quant à la nature exacte des chemins qui resteront conditionné à tel ou tel choix.
 Tout choix amène pour conséquence une réduction irréversible des possibles, dans certains cas même, particulièrement drastique.
-Nous en faisons l'amer expérience au cour de notre vie.
+Nous en faisons l'amer expérience au cours de notre vie.
 Le cas extrême du meurtrier qui comme conséquence de ses actes sera condamné à choisir de tourner dans sa cage soit dans le sens des aiguilles d'une montre, soit dans le sens inverse.
 
 Cette approche de premier ordre n'apporte finalement pas la garantie d'un véritable libre arbitre.
