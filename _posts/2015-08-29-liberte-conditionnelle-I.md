@@ -71,7 +71,7 @@ Je trace ainsi ma route à mesure que le temps s'écoule, toujours conditionnant
 
 Le degré de liberté corresponds en ce sens à la cardinalité des possibles qui se trouvent à ma disposition étant donné la somme des choix qui m'ont menés jusqu'ici ainsi que des contingences qui m'ont frappées jusqu'alors.
 Mon libre arbitre étant la possibilité de pouvoir à cet instant choisir parmi ces possibles.
-Ma responsabilité elle étant la somme des choix qui m'ayant conduit jusqu'ici.
+Ma responsabilité elle étant la somme des choix m'ayant conduit jusqu'ici.
 
 Cependant, la conséquence d'un modèle aussi trivial est que, bien que la cardinalité des possibles puisse-t-être excessivement grande -- apriori autant d'aleph que possible -- chaque choix est en réalité irréversible et ferme à tout moment l'ensemble des possibles *"qui auraient pu être si"*.
 Donc la cardinalité des possibles se réduit irrémédiablement à mesure que nous avançons dans la vie.
