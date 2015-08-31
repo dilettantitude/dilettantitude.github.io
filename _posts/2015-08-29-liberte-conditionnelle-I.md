@@ -60,7 +60,7 @@ Pas forcément, il s'agit de trouver une axiomatique sensée au sein de laquelle
 
 Dans une première approche naïve, je peux procéder ainsi.
 À chaque instant $$t$$, le chemin qui nous a amené ici est écrit, une fois pour toutes --- l'irréversibilité du temps.
-L'ensemble des contingences nous sommes connues; notre éducation et l'ensemble des expériences de la vie qui nous ont façonnées nous est donné; l'empreinte du réseau neuronal est fixée; qu'on l'accepte ou non.
+L'ensemble des contingences nous sont connues; notre éducation et l'ensemble des expériences de la vie qui nous ont façonnées nous est donné; l'empreinte du réseau neuronal est fixée; qu'on l'accepte ou non.
 Ce chemin $$\bar{\omega}_{s\leq t}$$ -- determiné pour tous les instants $$s$$ antérieurs à $$t$$ par un gigantesque ensemble de données fixant notre position présente -- fait face au futur; au temps $$t+h$$.
 Ce futur est en apparence un ensemble de chemins $$\{(\omega_s)_{s\geq 0}\colon \omega_{s\leq t}=\bar{\omega}_{s\leq t}\}$$ correspondant aux possibilités pour tout temps $$s$$ postérieur à $$t$$, mais(!), et par dessus tout, partageant tous ce passé unique, $$\bar{\omega}_{s\leq t}$$.
 Un ensemble de possibles conditionné au chemin parcouru jusqu'à présent.
