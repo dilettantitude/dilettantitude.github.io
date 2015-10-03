@@ -48,7 +48,7 @@ Ne pouvant la comprendre, je suis son regard qui diverge vers le tableau.
 
 Vas-y lâche toi!
 Empare toi de cette craie et lance toi sur le tableau -- je pense, un sourire en coin -- ce qu'elle fait après une seconde d'hésitation.
-C'est à présent un concert de main qui s'exprime, traçant arabesques et hiéroglyphes blancs sur vert.
+C'est à présent un concert de mains qui s'expriment, traçant arabesques et hiéroglyphes blancs sur vert, à la limite du brouhaha.
 De questions que je ne pouvais alors comprendre, se dessine alors sous mes yeux un langage que je saisis, que nous saisissons.
 Je regarde, touché, ce ballet, cette communion par l'écriture.
 L'excitation de se lancer sur cette surface verte, de faire crisser la craie, l'élégance du geste, exprimer enfin la teneur de sa pensée, sans barrières.
@@ -59,7 +59,7 @@ Devant ce tableau nous sommes frères et sœurs.
 Une famille certes peu nombreuse au regard de l'humanité, mais la seule à posséder un langage universel, celui du vrai et du faux.
 Et c'est d'autant plus éclatant à ce moment.
 Saisissant enfin la raison de leur questionnement je les accompagne dans ce concert, mes doigts pointent les différents arguments, je réarrange quelques termes, m'assurant du regard si je suis toujours suivit.
-Une hésitation et elle m'interrompt à coups de craie, finalement accepte.
+Une hésitation et elle m'interrompt à coups de craie, puis finalement accepte.
 
 Je me retourne, terminant le dernier argument, ce pas de deux, de plusieurs.
 Je vois enfin son visage, leurs visages, se libérer de la tension, se transformer en immense sourire illuminant son magnifique visage, se diffuse sur les autres peu à peu; contagion.
