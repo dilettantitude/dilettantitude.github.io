@@ -5,7 +5,7 @@ baseurl:
 
 # Site live URL
 
-url: http://www.dilettantitude.de
+    #url: http://www.dilettantitude.de
 name: Dilettantitude
 description: Hanging around, having a cigarette.
 
